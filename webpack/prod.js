@@ -9,6 +9,7 @@ module.exports = merge(base, {
     filename: "bundle.min.js"
   },
   devtool: false,
+  //entry: ["regenerator-runtime/runtime.js", "index.js"],
   performance: {
     maxEntrypointSize: 900000,
     maxAssetSize: 900000
