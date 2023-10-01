@@ -1,3 +1,19 @@
+***Explanation of FEN and algebraic notation*** 
+***The board is expressed in the code as an array etc. explanation explanation***
+[['r', 'n', 'b', 'q', 'k', 'b', 'n', 'r'],
+  ['p', 'p', 'p', 'p', 'p', 'p', 'p', 'p'],
+  ['-', '-', '-', '-', '-', '-', '-', '-'],
+  ['-', '-', '-', '-', '-', '-', '-', '-'],
+  ['-', '-', '-', '-', '-', '-', '-', '-'],
+  ['-', '-', '-', '-', '-', '-', '-', '-'],
+  ['P', 'P', 'P', 'P', 'P', 'P', 'P', 'P'],
+  ['R', 'N', 'B', 'Q', 'K', 'B', 'N', 'R']
+]
+
+
+
+
+
 # Phaser 3 Webpack Project Template
 
 A Phaser 3 project template with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/) that includes hot-reloading for development and production-ready builds.
